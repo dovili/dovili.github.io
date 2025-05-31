@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/development/</link>
+    <description>Recent content in Development on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 May 2025 08:56:20 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sat, 31 May 2025 08:56:20 +0300</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;first-post&#34;&gt;&#xA;  First post&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#first-post&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is the &lt;a href=&#34;http://localhost:1313/posts/first&#34;&gt;First Post&lt;/a&gt; to the &lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;Blog&lt;/a&gt; website page.&#xA;&lt;img src=&#34;welcome.png&#34; alt=&#34;Welcome&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
