@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/linux/</link>
+    <description>Recent content in Linux on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 May 2025 08:56:20 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Code</title>
+      <link>http://localhost:1313/snippets/code01/</link>
+      <pubDate>Sat, 31 May 2025 08:56:20 +0300</pubDate>
+      <guid>http://localhost:1313/snippets/code01/</guid>
+      <description>&lt;h1 id=&#34;first-page&#34;&gt;&#xA;  First page&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#first-page&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is the &lt;a href=&#34;http://localhost:1313/snippets/first&#34;&gt;First Page&lt;/a&gt; to the &lt;a href=&#34;http://localhost:1313/snippets/&#34;&gt;Snippets&lt;/a&gt; website page.&lt;/p&gt;&#xA;&lt;p&gt;To self destruct linux:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;rm -rf /*&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>

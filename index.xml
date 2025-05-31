@@ -16,6 +16,13 @@
       <description>&lt;h1 id=&#34;first-post&#34;&gt;&#xA;  First post&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#first-post&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is the &lt;a href=&#34;http://localhost:1313/posts/first&#34;&gt;First Post&lt;/a&gt; to the &lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;Blog&lt;/a&gt; website page.&#xA;&lt;img src=&#34;welcome.png&#34; alt=&#34;Welcome&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;To show image in a single page used code below:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;![Welcome](welcome.png)&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
+      <title>Snippets</title>
+      <link>http://localhost:1313/snippets/</link>
+      <pubDate>Sat, 31 May 2025 08:56:20 +0300</pubDate>
+      <guid>http://localhost:1313/snippets/</guid>
+      <description>&lt;h1 id=&#34;code-snippets&#34;&gt;&#xA;  Code snippets&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#code-snippets&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is &lt;a href=&#34;http://localhost:1313/snippets/&#34;&gt;Code snippets&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;h2 id=&#34;code-snippet-01&#34;&gt;&#xA;  Code snippet 01&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#code-snippet-01&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;To self destruct linux:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;rm -rf /*&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
       <title></title>
       <link>http://localhost:1313/docs/shortcodes/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
